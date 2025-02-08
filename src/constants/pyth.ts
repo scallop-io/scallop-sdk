@@ -11,6 +11,7 @@ export const PYTH_FEED_IDS: Record<SupportPoolCoins, string> = {
   usdc: 'eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a',
   sbeth: 'ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace',
   sbusdt: '2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b',
+  sbwbtc: 'e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43',
   weth: 'ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace',
   wbtc: 'e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43',
   wusdc: 'eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a',
@@ -26,4 +27,5 @@ export const PYTH_FEED_IDS: Record<SupportPoolCoins, string> = {
   fdusd: '0xccdc1a08923e2e4f4b1e6ea89de6acbc5fe1948e9706f5604b8cb50bc1ed3979',
   deep: '29bdd5248234e33bd93d3b81100b5fa32eaa5997843847e2c2cb16d7c6d9f7ff',
   fud: '6a4090703da959247727f2b490eb21aea95c8684ecfac675f432008830890c75',
+  blub: '5fc11ffe4975b624be495be038da30e30bee2004d8ae6282b5364577ef4ca92c',
 };
