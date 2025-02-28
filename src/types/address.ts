@@ -65,6 +65,7 @@ export interface AddressesInterface {
         SupportPackageType,
         {
           id: string;
+          object?: string;
           upgradeCap: string;
         }
       >
@@ -130,6 +131,7 @@ export interface AddressesInterface {
         {
           coinType: string;
           treasury: string;
+          metaData: string;
         }
       >
     >;
